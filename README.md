@@ -75,7 +75,7 @@ aws s3 ls
 ```
 create S3 bucket
 ```
-aws s3api create-bucket --bucket \<bucket unique name> --region \<region ex:us-east-1>
+aws s3api create-bucket --bucket <bucket unique name> --region <region ex:us-east-1>
 ```
 
 ## License
