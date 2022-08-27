@@ -6,7 +6,7 @@ In this sample application, you will learn
 - Create an Amazon IAM use with permission to read/write on S3 bucket
 - Create/Delete S3 Bucket from CLI and Java
 - Retrieve and delete files in S3 Bucket
-
+![](App-Diagram.png)
 ## 2. Prerequisites
 To use this application, we need to have below software and access
 - Intellij IDE with AWS plugins
